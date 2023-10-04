@@ -20,6 +20,19 @@ Constructive feedback is always welcome!
 
 Your support and encouragement mean the world to me. Thank you! 🚀📚
 
+## Demo Video
+
+<br/>
+<p align="center">
+    <a href="https://www.linkedin.com/posts/ataibsaboor04_flutterapp-quizapp-appdevelopment-activity-7113955067703013376-1LIl?utm_source=share&utm_medium=member_desktop" style="text-decoration: none;">    
+        <img src="https://cdn-icons-png.flaticon.com/512/2898/2898856.png" alt="Video Icon" width="20" height="20" style="vertical-align: middle;"> 
+        &nbsp;Watch Demo on LinkedIn
+    </a>
+</p>
+<br/>
+
+<img src="https://github.com/ataibsaboor04/quizzer/assets/53258535/727e4e5b-5018-4903-a3a3-6bdf8e7b3d21" alt="Demo Video"> 
+
 ---
 
 <p>
